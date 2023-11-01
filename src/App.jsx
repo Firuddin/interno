@@ -1,10 +1,10 @@
 import React from "react";
-import Routing from "./Components/Routing";
+import WebRouting from "./Components/Routing";
 import "./App.css";
 const App = () => {
   return (
     <div>
-     <Routing/>
+      <WebRouting />
     </div>
   );
 };
